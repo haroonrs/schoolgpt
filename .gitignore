@@ -1,0 +1,5 @@
+
+penv/*
+penv/pyvenv.cfg
+.vscode/settings.json
+.secrets/*
