@@ -11,7 +11,7 @@ def load_api_keys():
     load_dotenv()
 
 
-openai.api_key = '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'
+openai.api_key = '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'
 
 # HubspotReader = download_loader('HubspotReader')
 
